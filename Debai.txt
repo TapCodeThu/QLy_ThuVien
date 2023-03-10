@@ -1,0 +1,18 @@
+==============BÀI TẬP KẾ THỪA=================
+
+-Thư viện X tiến hành cho đăng ký làm thẻ độc giả. Thông tin độc giả gôm:
+		+Họ tên
+		+Ngày làm thẻ
+		+Số tháng có hiệu lực của thẻ
+-Có 2 loại độc giả : Trẻ em và Người lớn
+	+Độc giả trẻ em cần lưu thêm thông tin họ tên người đại diện
+	Tiền làm thẻ tính theo công thức: Số tháng có hiệu lực * 5.000 VND
+	+Độc giả người lơn cần lưu thêm thông tin số CMND
+	Tiền làm thẻ tính theo công thưc: Số tháng có hiệu lực * 10.000VND
+=====Yêu Cầu======
+1.Hãy cài đặt các lớp đại diện cho các loại thẻ độc giả trên để:
+	+Quản lý thông tin thẻ
+	+ Tính tiền làm thẻ của một thẻ độc giả
+Hãy cài đặt lớp Thư Viện để quản lý danh sách các thẻ độc giả trong thư viện, với các chưc năng sau:
+	+ Nhập , xuất danh sách các thẻ độc giả
+	+Tính tổng tiền làm thẻ
